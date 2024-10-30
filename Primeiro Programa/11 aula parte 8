@@ -1,0 +1,6 @@
+#Função parametrizadas
+
+def ola(nome):
+    print("Olá",nome)
+
+ola("João")

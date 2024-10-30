@@ -1,0 +1,7 @@
+# Popitem (): remover o último elemento do dicionário
+
+dicionario = {"gato":"chat","cachorro":"chien","cavalo":"cheval"}
+
+dicionario.popitem()
+
+print(dicionario)

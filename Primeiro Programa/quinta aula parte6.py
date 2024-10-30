@@ -1,0 +1,6 @@
+valor1= float(input("Digite o primeiro valor: "))
+valor2= float(input("Digite o segundo valor: "))
+print("Adição: ", valor1 + valor2)
+print("Subtração: ",valor1 - valor2)
+print("Multiplicação: ", valor1 * valor2)
+print("Divisão: ", valor1 / valor2)

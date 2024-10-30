@@ -1,0 +1,9 @@
+# Método values (): retorna valores do dicionário
+
+dicionario = {
+    "gato":"chat",
+    "cachorro":"chien",
+    "cavalo":"cheval"}
+
+for chave in dicionario.values():
+    print(chave)

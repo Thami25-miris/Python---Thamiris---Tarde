@@ -1,0 +1,1 @@
+print("Mar calmo \n nunca fez \n bom marinheiro")
